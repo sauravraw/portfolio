@@ -45,6 +45,10 @@ nav {
 	width: 100%;
 	background-color: var(--primaryColor);
 	color: var(--secondaryColor);
+	position: fixed;
+	overflow: hidden;
+	top: 0;
+	z-index: 300;
 }
 
 .logo img {
