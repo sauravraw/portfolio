@@ -431,7 +431,14 @@ footer {
 /* social media end */
 
 /* contact end */
-
+#copyright {
+	height: 40px;
+	background-color: var(--primaryColor);
+	color: var(--secondaryColor);
+}
+marquee {
+	margin-top: 10px;
+}
 /* footer end */
 
 /* responsive */
