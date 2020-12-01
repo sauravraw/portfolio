@@ -3,16 +3,19 @@
 
 https://sauravraw.github.io/portfolio/.
 
-# Pomodoro App
 
-- Simple Pomodoro App with the default timer of 25:00 minutes using Vanilla JS
-- Contains of two breaks viz. Short Break (5 minutes) and Long Break (15 minutes)
-- Consists of three buttons which are Pomodoro, Short Break, Long Break
-- Clicking button will render a new countdown timer
+To run this file into your local computer, follow the steps:
+Navigate to the your directory to the location where you want the clone this project.
 
-# Clone
+# Type git clone, and then paste the URL you copied earlier.
 
-Clone the Repository using: https://github.com/sauravraw/portfolio.git
+$ git clone https://github.com/sauravraw/portfolio
+
+Press Enter to create your local clone.
+
+Now navigate to the folder where the repository hass been cloned.
+
+Right click on the index.html file and click on open with browser.
 
 # Technologies Used
 
